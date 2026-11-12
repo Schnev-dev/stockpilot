@@ -1,7 +1,7 @@
 [project]
 name = "stockpilot"
 version = "0.1.0"
-description = "API para criar, modificar, excluir e organizar tarefas de acordo com seu status."
+description = "API REST para gerenciamento de produtos em estoque."
 authors = [
     {name = "Schnev-dev",email = "schnevthompson@proton.me"}
 ]
